@@ -1,0 +1,23 @@
+{
+  "name": "nodedocker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+	"start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yzxchoice/nodedocker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yzxchoice/nodedocker/issues"
+  },
+  "homepage": "https://github.com/yzxchoice/nodedocker#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
